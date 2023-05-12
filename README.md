@@ -9,9 +9,9 @@ Repository containing portfolio of data science projects completed by me for aca
 *Evaluation of the model
 
 Also finds that the following factors are associated with more severe accidents:
-\nThe number of vehicles involved in the accident
-*The number of fatalities in the accident
-*The severity of the injuries in the accident
+* The number of vehicles involved in the accident
+* The number of fatalities in the accident
+* The severity of the injuries in the accident
 *The weather conditions at the time of the accident
 *The time of day of the accident
 *The road conditions at the time of the accident
