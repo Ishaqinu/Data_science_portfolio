@@ -4,7 +4,7 @@ Repository containing portfolio of data science projects completed by me for aca
 ### Machine Learning
 [Road Accident Serverity](https://github.com/Ishaqinu/Data_science_portfolio/blob/main/Road%20accidents%20severity.ipynb) : The data set has been prepared from manual records of road traffic accident of the year 2017-20. All the sensitive information have been excluded during data encoding and finally it has 32 features and 12316 instances of the accident. Then it is preprocessed and for identification of major causes of the accident by analyzing it using different machine learning classification algorithms
 
-[Car Details](https://github.com/Ishaqinu/Data_science_portfolio/blob/main/car%20details.ipynb) : 
+[Car Details](https://github.com/Ishaqinu/Data_science_portfolio/blob/main/car%20details.ipynb) : IN this model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the Linear regression model will be a good way for management to understand the pricing dynamics of a new market.
 
 [Laptop Price Prediction](https://github.com/Ishaqinu/Data_science_portfolio/blob/main/laptop%20price%20prediction.ipynb) : This notebook is about the Price Prediction of a dataset contaning data about laptops. We'll use pandas, numpy and other python packages for data manipulation, matplotlib and seaborn for data visualization & Regression model are used make ml models.
 model used:
