@@ -1,6 +1,6 @@
 # Data_science_portfolio
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebook
-# Contents
+# *Contents
 [Road Accident Serverity](https://github.com/Ishaqinu/Data_science_portfolio/blob/main/Road%20accidents%20severity.ipynb) : 
 
 
