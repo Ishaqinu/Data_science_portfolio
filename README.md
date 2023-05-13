@@ -4,7 +4,7 @@ _Welcome to my data science portpolio_
 This repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebook
 ## Contents
 ### Machine Learning
-[Road Accident Serverity](https://github.com/Ishaqinu/Data_science_portfolio/blob/main/Road%20accidents%20severity.ipynb) : The data set has has 32 features and 12316 instances of the accident. Then it is preprocessed and for identification of major causes of the accident by analyzing it using different machine learning classification algorithms and features are analyised using matpoltlib and seaborn.
+[Road Accident Serverity](https://github.com/Ishaqinu/Data_science_portfolio/blob/main/Road%20accidents%20severity.ipynb) : The data set has has 32 features and 12316 instances of the accident. Then it is preprocessed and for identification of major causes of the accident by analyzing it using different machine learning classification algorithms .
 model used:
 * KNN
 * NaiveBayes
