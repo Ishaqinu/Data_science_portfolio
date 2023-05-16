@@ -31,9 +31,14 @@ From this Data we can get to know :
 
 ### NLP
 [Emotion Dataset](https://github.com/Ishaqinu/Data_science_portfolio/blob/main/Emotions.ipynb) : This project is an example of how NLP can be used to classify emotions in text. This type of technology can be used to develop a variety of applications, such as sentiment analysis and customer feedback analysis.
-
 Here are some additional details about the steps involved in this project:
 * using spacy
 * Tfidf vecotization
 * model: RandomForest (classification)
+
+[IMDB rating](https://github.com/Ishaqinu/Data_science_portfolio/blob/main/IMDB%20rating.ipynb) : this dataset contain 25000 review of movies . i have predicted
+weather the review is positive or negative using NLP
+Here are some additional details about the steps involved in this project:
+* 
+
 ### Deep Learning
