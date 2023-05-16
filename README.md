@@ -27,6 +27,7 @@ From this Data we can get to know :
 * Which Feature or Features are significant in predicting the close Price.
 * How well those Features describe the Close price of this Company.
 
+Weather dataset : This a comprehensive midsized Dataset on Weather records in different areas of Australia. This can be used for beginner level ML binary Classification models to predict whether it will rain or not Tomorrow . i have used encoder and imputer iinthis dataset
 
 ### NLP
 [Emotion Dataset](https://github.com/Ishaqinu/Data_science_portfolio/blob/main/Emotions.ipynb) : This project is an example of how NLP can be used to classify emotions in text. This type of technology can be used to develop a variety of applications, such as sentiment analysis and customer feedback analysis.
