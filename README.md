@@ -39,6 +39,8 @@ Here are some additional details about the steps involved in this project:
 [IMDB rating](https://github.com/Ishaqinu/Data_science_portfolio/blob/main/IMDB%20rating.ipynb) : this dataset contain 25000 review of movies . i have predicted
 weather the review is positive or negative using NLP
 Here are some additional details about the steps involved in this project:
-* 
+* count vectorizer
+* snowball stemmer
+* model: Navie Bayes
 
 ### Deep Learning
