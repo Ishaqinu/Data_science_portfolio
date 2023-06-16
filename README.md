@@ -44,3 +44,11 @@ Here are some additional details about the steps involved in this project:
 * model: Navie Bayes
 
 ### Deep Learning
+Face Recognition-based Attendance System with Absent Student Notification : this project aims to automate attendance tracking by using face recognition technology. It captures video from a webcam, detects faces in real-time, compares them with a set of known faces, and marks the attendance of recognized individuals afterthat machine will notify individuals sending sms to them
+- Dependencies: The project relies on several Python libraries -
+  * OpenCV for computer vision tasks
+  * numpy for numerical operations
+  * face_recognition for face detection and recognition
+  * os for file and directory operations
+  * twilio for sending SMS notifications
+  * pandas for data manipulation
