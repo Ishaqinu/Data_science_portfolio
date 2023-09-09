@@ -53,7 +53,7 @@ Here are some additional details about the steps involved in this project:
   * twilio for sending SMS notifications
   * pandas for data manipulation
  
-Hand Gesture Drawing Application : The Hand Gesture Drawing Application is a computer vision project that allows users to draw on a digital canvas using their hand gestures. The application utilizes real-time hand detection and tracking techniques to interpret the user's hand movements and translate them into drawing actions on the screen
+[Hand Gesture Drawing Application](https://github.com/Ishaqinu/Data_science_portfolio/blob/main/Hand%20Gesture%20Drawing/main.py) : The Hand Gesture Drawing Application is a computer vision project that allows users to draw on a digital canvas using their hand gestures. The application utilizes real-time hand detection and tracking techniques to interpret the user's hand movements and translate them into drawing actions on the screen
  - Dependencies: The project relies on several Python libraries -
   * OpenCV for computer vision tasks
   * mediapipe utilized for hand tracking and landmark detection.
